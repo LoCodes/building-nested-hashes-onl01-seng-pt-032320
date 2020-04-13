@@ -9,8 +9,8 @@ epic_tragedy = {
       hero_friends: []
    },
    capulet: {
-      patriarch: {name: "Lord Montague" },
-      matriarch: {age: 53},
+      patriarch: {},
+      matriarch: {},
       heroine: {},
       heroine_friends: []
    }
