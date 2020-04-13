@@ -1,3 +1,6 @@
+# #third_challenge
+#   fills out the Montague character role keys with the key/value pairs describing their attributes
+
 def third_challenge
   epic_tragedy = {
    :montague => {
@@ -11,7 +14,7 @@ def third_challenge
         #your key/value pairs here
         },
       :hero_friends => []
-   }, 
+   },
    :capulet => {
       :patriarch => {
         #your key/value pairs here
@@ -26,5 +29,5 @@ def third_challenge
    }
   }
 
-  
+
 end
