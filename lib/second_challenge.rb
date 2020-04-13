@@ -2,11 +2,11 @@
 #   fill out the empty hashes that are the values of the family name keys with the appropriate key/value pairs
 
 epic_tragedy = {
-   :montague => {
-      :patriarch => {},
-      :matriarch => {},
-      :hero => {},
-      :hero_friends => []
+   montague: {
+      patriarch: {},
+      matriarch: {},
+      hero: {},
+      hero_friends: []
    },
    :capulet => {
       :patriarch => {},
