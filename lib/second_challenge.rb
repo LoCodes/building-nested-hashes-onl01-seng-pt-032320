@@ -13,7 +13,7 @@ def second_challenge
       patriarch: {},            #your key/value pairs here!
       matriarch: {},
       hero: {},
-      hero_friends: {}
+      heroine_friends: {}
 
       }}
 
